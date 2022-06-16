@@ -1,0 +1,7 @@
+1. Functional_testing
+2. Integration_testing
+3. Security_testing
+4. Localization_testing
+5. Globalization_testing
+6. Usability_testing
+7. Cross_platform_testing
