@@ -1,0 +1,22 @@
+1. На локальном репозитории сделать ветки для:
+- Postman
+- Jmeter
+- CheckLists
+- Bag Reports
+- SQL
+- Charles
+- Mobile testing
+
+a) Создать внешний репозиторий c названием Branches.
+b) Перейти в GitBash
+   $ mkdir BRANCHES
+   $ cd BRANCHES
+   $ git clone https://github.com/AliyaKahiya/Branches.git
+   Cloning into 'Branches'...
+   remote: Enumerating objects: 3, done.
+   remote: Counting objects: 100% (3/3), done.
+   remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+   Receiving objects: 100% (3/3), done.
+   $ cd Branches
+   
+   $ git branch Postman; git branch Jmeter; git branch CheckLists; git branch Bag_Reports; git branch SQL; git branch Charles; git branch Mobile_Testing
