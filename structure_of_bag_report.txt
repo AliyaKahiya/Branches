@@ -1,6 +1,6 @@
 1. Summary
 2. Description
-3. Actusl_result[D[D[D[D[D[D[D[a[C[C[C[C[C[C[C[C
+3. Actual_result
 4. Expected_result
 5. Attachments
 6. Priority
